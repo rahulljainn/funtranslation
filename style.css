@@ -1,10 +1,9 @@
 .headingline{
     text-align: center;
     color:black;
-    
     padding: 3rem 3rem;
     border-radius: 0.5rem;
-    font-size: 5rem;
+    font-size: 2rem;
 }
 .button-style{
     color: black;
@@ -29,4 +28,12 @@
     text-align: center;
     color: black;
     padding: 0.5rem;
+}
+.text-input{
+    height: 5rem;
+    margin: auto;
+}
+.text-output{
+    height: 5rem;
+    margin: auto;
 }
