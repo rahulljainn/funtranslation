@@ -21,9 +21,9 @@
     color:black;
     padding: 0.5rem 6rem;
     border-radius: 0.5rem;
-    text-decoration: underline;
-    
-    
+}
+.center{
+    text-align: center;
 }
 .abt-align{
     text-align: center;
